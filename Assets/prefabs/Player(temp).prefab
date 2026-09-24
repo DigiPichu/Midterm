@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 6560050300181167174}
   - component: {fileID: 6279119064752278245}
   - component: {fileID: 1023438535269839038}
-  - component: {fileID: 4133229156055208175}
   - component: {fileID: 7867801519427824636}
   - component: {fileID: 299844785227175027}
   - component: {fileID: 4232014810968712812}
@@ -138,6 +137,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerGroundChecker
   groundCheckTransform: {fileID: 6596947179494862589}
+  groundCheckerObject: {x: 0, y: 0, z: 0}
   BroadcastGrounded:
     m_PersistentCalls:
       m_Calls:
@@ -154,19 +154,9 @@ MonoBehaviour:
           m_BoolArgument: 1
         m_CallState: 2
   groundDistance: 0.6
---- !u!114 &4133229156055208175
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4673554259583596717}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6dd6e4d7b2d086343b90bfe3cdfd9999, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PlayerTurnBehaviour
-  turnSpeed: 5
+  groundLayer:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &7867801519427824636
 MonoBehaviour:
   m_ObjectHideFlags: 0
