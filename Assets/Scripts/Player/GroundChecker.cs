@@ -4,7 +4,7 @@ using UnityEngine.Events;
 public class PlayerGroundChecker : MonoBehaviour
 {
     public Transform groundCheckTransform;
-    public Vector3 groundCheckerObject;
+    //public Vector3 groundCheckerObject;
     public UnityEvent<bool> BroadcastGrounded;
     public float groundDistance = 0.6f;
     public LayerMask groundLayer;
@@ -14,9 +14,11 @@ public class PlayerGroundChecker : MonoBehaviour
     {
         bool grounded = false;
 
-        //Ray ray = new Ray(groundCheckTransform.position, Vector3.down);
-        //grounded = Physics.Raycast(ray, groundDistance);
-        grounded = Physics.OverlapSphere(groundCheckerObject, groundDistance, groundLayer).Length > 0;
+        RaycastHit hit;
+
+        Ray ray = new Ray(groundCheckTransform.position, Vector3.down);
+        grounded = Physics.Raycast(ray, out hit, groundDistance, groundLayer);
+        //grounded = Physics.OverlapSphere(groundCheckerObject, groundDistance, groundLayer).Length > 0;
 
         BroadcastGrounded?.Invoke(grounded);
     }

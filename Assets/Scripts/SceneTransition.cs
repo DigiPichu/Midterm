@@ -1,16 +1,26 @@
+using System.Collections;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class SceneTransition : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    [SerializeField] private float duration = 0f;
+    [SerializeField] private string sceneName;
+
+    private void Update()
     {
-        
+
+
+        WaitRoutine(duration);
+        SceneManager.LoadScene(sceneName);
+
     }
 
-    // Update is called once per frame
-    void Update()
+    private IEnumerator WaitRoutine(float Duration)
     {
-        
+
+        yield return new WaitForSeconds(Duration);
+
     }
+
 }
