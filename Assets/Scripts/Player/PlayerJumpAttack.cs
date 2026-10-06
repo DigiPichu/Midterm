@@ -1,16 +1,35 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class PlayerJumpAttack : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    [SerializeField] private float decay;
+    [SerializeField] private float jumpModifier;
+
+
+    private void OnCollisionEnter(Collision collision)
     {
-        
+        if (CompareTag("Enemy")){
+            ApplyJump();
+        }
     }
 
-    // Update is called once per frame
+    private void ApplyJump()
+    {
+        jumpModifier = jumpModifier - decay * Time.deltaTime;
+        if (jumpModifier < 0)
+        {
+            jumpModifier = 0;
+        }
+
+        Vector3 movementVector = Physics.gravity;
+        movementVector += Vector3.up * jumpModifier;
+    }
+
+
     void Update()
     {
-        
+
+
     }
 }

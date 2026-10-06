@@ -13,10 +13,11 @@ public class PlayerGroundChecker : MonoBehaviour
     void Update()
     {
         bool grounded = false;
+        RaycastHit hit;
 
-        //Ray ray = new Ray(groundCheckTransform.position, Vector3.down);
-        //grounded = Physics.Raycast(ray, groundDistance);
-        grounded = Physics.OverlapSphere(groundCheckerObject, groundDistance, groundLayer).Length > 0;
+        Ray ray = new Ray(groundCheckTransform.position, Vector3.down);
+        grounded = Physics.Raycast(ray, out hit, groundDistance, groundLayer);
+        //grounded = Physics.OverlapSphere(groundCheckerObject, groundDistance, groundLayer).Length > 0;
 
         BroadcastGrounded?.Invoke(grounded);
     }
