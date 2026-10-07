@@ -21,14 +21,6 @@ public abstract class PlayerJumpBehaviour : MonoBehaviour
         }
     }
 
-    private void OnCollisionEnter(Collision collision)
-    {
-        if (isGrounded == true && CompareTag("Enemy"))
-        {
-            ApplyJump();
-        }
-    }
-
 
     protected virtual void ApplyJump()
     { }
