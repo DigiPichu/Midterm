@@ -7,7 +7,7 @@ public abstract class PlayerJumpBehaviour : MonoBehaviour
 
     [SerializeField] protected float force;
 
-    private bool isGrounded;
+    public static bool isGrounded;
     private bool jumpInput;
 
     private void Update()

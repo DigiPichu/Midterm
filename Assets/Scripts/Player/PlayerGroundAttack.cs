@@ -10,7 +10,7 @@ public class PlayerGroundAttack : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetButtonDown("Fire1"))
+        if (Input.GetButtonDown("Fire1") && PlayerJumpBehaviour.isGrounded)
         {
             StartCoroutine(ChangePlayerTag());
             Debug.Log("Pressed Attack");

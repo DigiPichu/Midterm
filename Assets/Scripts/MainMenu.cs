@@ -12,7 +12,8 @@ public class MainMenu : MonoBehaviour
     }
     public void StartGame()
     {
-        SceneManager.LoadScene("Demo Stage");
+        ScoreManager.Life = 3;
+        SceneManager.LoadScene("Stage Select");
     }
 
     public void ShowInstructions()
