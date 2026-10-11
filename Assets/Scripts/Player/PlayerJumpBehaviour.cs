@@ -12,6 +12,7 @@ public abstract class PlayerJumpBehaviour : MonoBehaviour
 
     private void Update()
     {
+
         ApplyJump();
 
         if (ShouldJump())
@@ -19,8 +20,26 @@ public abstract class PlayerJumpBehaviour : MonoBehaviour
             Jump();
             OnJump?.Invoke();
         }
-    }
 
+        if (isGrounded == false)
+        {
+            gameObject.tag = "PlayerAttackJump";
+        }
+        if (isGrounded == true && PlayerGroundAttack.isAttack == false)
+        {
+            gameObject.tag = "Player";
+        }
+    }
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.CompareTag("Enemy"))
+        {
+            Debug.Log("Enemy Detected, now jumping");
+            ApplyJump();
+            Jump();
+            OnJump?.Invoke();
+        }
+    }
 
     protected virtual void ApplyJump()
     { }

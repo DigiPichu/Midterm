@@ -4,9 +4,9 @@ using UnityEngine;
 public class PlayerCharacterControllerMovement : PlayerMovementBehaviour
 {
     private CharacterController controller;
-
     private void Start()
-    { controller = GetComponent<CharacterController>(); }
+    { controller = GetComponent<CharacterController>();
+    }
 
     protected override void ApplyMovement(Vector3 movementVector)
     {

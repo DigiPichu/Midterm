@@ -6,10 +6,12 @@ public abstract class PlayerMovementBehaviour : MonoBehaviour
     public UnityEvent<float> BroadcastSpeed;
 
     [SerializeField] private float movementSpeed;
-
+    private Animator anim;
     private float horizontalInput;
 
     protected abstract void ApplyMovement(Vector3 movementVector);
+
+    private void Start() { anim = GetComponent<Animator>(); }
 
     protected virtual void Update()
     { Move(); }

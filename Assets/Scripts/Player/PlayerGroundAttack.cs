@@ -5,6 +5,8 @@ using UnityEngine.Events;
 public class PlayerGroundAttack : MonoBehaviour
 {
     public UnityEvent OnAttack;
+    [SerializeField] private Animator anim;
+    public static bool isAttack;
 
     [SerializeField] private float attackFrames;
 
@@ -12,19 +14,21 @@ public class PlayerGroundAttack : MonoBehaviour
     {
         if (Input.GetButtonDown("Fire1") && PlayerJumpBehaviour.isGrounded)
         {
+            anim.SetTrigger("Attack");
             StartCoroutine(ChangePlayerTag());
             Debug.Log("Pressed Attack");
         }
     }
     private IEnumerator ChangePlayerTag()
     {
-        gameObject.tag = "PlayerAttack";
-        Debug.Log("Player should be attack!");
-        yield return new WaitForSeconds(attackFrames);
-        gameObject.tag = "Player";
-        Debug.Log("Player should be normal");
-
+            isAttack = true;
+            gameObject.tag = "PlayerAttack";
+            Debug.Log("Player should be attack!");
+            yield return new WaitForSeconds(attackFrames);
+            gameObject.tag = "Player";
+            isAttack = false;
     }
+
 
 
     /*private bool isGrounded;
