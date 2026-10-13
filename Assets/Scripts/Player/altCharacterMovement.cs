@@ -4,25 +4,22 @@ public class altCharacterMovement : MonoBehaviour
 {
 
     public Transform visualsTransform;
-    private bool facingRight = true;
+    [SerializeField] private Animator anim;
 
     void Update()
     {
         float moveInput = Input.GetAxis("Horizontal");
 
-        if (moveInput > 0 && !facingRight)
+        if (moveInput > 0)
         {
-            FlipVisuals();
+            anim.SetBool("isRunning", true);
+            visualsTransform.transform.localEulerAngles = new Vector3(0f, 90f, 0f);
         }
-        else if (moveInput < 0 && facingRight)
+        else if (moveInput < 0)
         {
-            FlipVisuals();
+            anim.SetBool("isRunning", true);
+            visualsTransform.transform.localEulerAngles = new Vector3(0f, 270f, 0f);
         }
-    }
-
-    void FlipVisuals()
-    {
-        facingRight = !facingRight;
-        visualsTransform.Rotate(0f, 180f, 0f);
+        else { anim.SetBool("isRunning", false); }
     }
 }

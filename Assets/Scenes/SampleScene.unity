@@ -119,89 +119,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1001 &162314676
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 772947689644677785, guid: 86ee8e9af2aaea044b2a4e7ab6a8d071, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 772947689644677785, guid: 86ee8e9af2aaea044b2a4e7ab6a8d071, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 772947689644677785, guid: 86ee8e9af2aaea044b2a4e7ab6a8d071, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 772947689644677785, guid: 86ee8e9af2aaea044b2a4e7ab6a8d071, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.88
-      objectReference: {fileID: 0}
-    - target: {fileID: 772947689644677785, guid: 86ee8e9af2aaea044b2a4e7ab6a8d071, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 2.11
-      objectReference: {fileID: 0}
-    - target: {fileID: 772947689644677785, guid: 86ee8e9af2aaea044b2a4e7ab6a8d071, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -0.010000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 772947689644677785, guid: 86ee8e9af2aaea044b2a4e7ab6a8d071, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: -0.7071068
-      objectReference: {fileID: 0}
-    - target: {fileID: 772947689644677785, guid: 86ee8e9af2aaea044b2a4e7ab6a8d071, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.7071068
-      objectReference: {fileID: 0}
-    - target: {fileID: 772947689644677785, guid: 86ee8e9af2aaea044b2a4e7ab6a8d071, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 772947689644677785, guid: 86ee8e9af2aaea044b2a4e7ab6a8d071, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 772947689644677785, guid: 86ee8e9af2aaea044b2a4e7ab6a8d071, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 270
-      objectReference: {fileID: 0}
-    - target: {fileID: 772947689644677785, guid: 86ee8e9af2aaea044b2a4e7ab6a8d071, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 772947689644677785, guid: 86ee8e9af2aaea044b2a4e7ab6a8d071, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 772947689644677785, guid: 86ee8e9af2aaea044b2a4e7ab6a8d071, type: 3}
-      propertyPath: m_ConstrainProportionsScale
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4634423936590096162, guid: 86ee8e9af2aaea044b2a4e7ab6a8d071, type: 3}
-      propertyPath: m_Name
-      value: Inflatable_Ring_B_Donuts (10)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5091148959771057009, guid: 86ee8e9af2aaea044b2a4e7ab6a8d071, type: 3}
-      propertyPath: m_IsTrigger
-      value: 1
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 4634423936590096162, guid: 86ee8e9af2aaea044b2a4e7ab6a8d071, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 351865156}
-    - targetCorrespondingSourceObject: {fileID: 4634423936590096162, guid: 86ee8e9af2aaea044b2a4e7ab6a8d071, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 351865155}
-  m_SourcePrefab: {fileID: 100100000, guid: 86ee8e9af2aaea044b2a4e7ab6a8d071, type: 3}
 --- !u!1 &330585543
 GameObject:
   m_ObjectHideFlags: 0
@@ -356,38 +273,6 @@ MonoBehaviour:
   smoothTime: 0.25
   offset: {x: 0, y: 2.79, z: -10}
   fixedYPosition: 2.79
---- !u!1 &351865154 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4634423936590096162, guid: 86ee8e9af2aaea044b2a4e7ab6a8d071, type: 3}
-  m_PrefabInstance: {fileID: 162314676}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &351865155
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 351865154}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d39550af2b181074783fcf17d4742f05, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PonDeRing
-  value: 10
-  lifeValue: 1
-  stageUI: {fileID: 1340165367}
---- !u!114 &351865156
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 351865154}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d90c32ee558f940439694805a5dda05b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::ScoreManager
 --- !u!1 &410087039
 GameObject:
   m_ObjectHideFlags: 0
@@ -1720,6 +1605,67 @@ Animator:
   m_CorrespondingSourceObject: {fileID: 548229476638153334, guid: 4fc370c0612eb5945b807ae5875d1e04, type: 3}
   m_PrefabInstance: {fileID: 8206507202821668736}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2723725348451229038
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.88
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.11
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.010000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 270
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2179274191142739020, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: stageUI
+      value: 
+      objectReference: {fileID: 1340165367}
+    - target: {fileID: 5530599437967183055, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_Name
+      value: Inflatable_Ring_B_Donuts (10)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e0bfd96558597b2409da450574cdee48, type: 3}
 --- !u!1001 &4207274574750335087
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1956,5 +1902,5 @@ SceneRoots:
   - {fileID: 1340165366}
   - {fileID: 1352063773}
   - {fileID: 4207274574750335087}
-  - {fileID: 162314676}
+  - {fileID: 2723725348451229038}
   - {fileID: 4976838026531439763}

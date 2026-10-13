@@ -370,6 +370,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::StaticMovementBehaviour
   speed: 2
   moveDistance: 3
+  anim: {fileID: 0}
 --- !u!54 &8171104791903954825
 Rigidbody:
   m_ObjectHideFlags: 0
