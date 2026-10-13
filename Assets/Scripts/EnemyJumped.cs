@@ -8,6 +8,8 @@ public class EnemyJumped : MonoBehaviour
     {
         if (other.gameObject.CompareTag("PlayerAttackJump"))
         {
+            BonusStageItems.bonusStageItems--;
+            Debug.Log(BonusStageItems.bonusStageItems);
             Destroy(enemy);
         }
 } 

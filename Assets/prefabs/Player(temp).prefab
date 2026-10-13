@@ -361,6 +361,7 @@ MonoBehaviour:
   OnAttack:
     m_PersistentCalls:
       m_Calls: []
+  anim: {fileID: 0}
   attackFrames: 0.25
 --- !u!114 &7107916225352920742
 MonoBehaviour:
@@ -377,6 +378,7 @@ MonoBehaviour:
   OnAttack:
     m_PersistentCalls:
       m_Calls: []
+  anim: {fileID: 548229476638153334}
   attackFrames: 1
 --- !u!1 &8398108381675303619
 GameObject:
@@ -470,6 +472,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 214e08cd5e5d74c458e2a81b7ec2c84c, type: 3}
+--- !u!95 &548229476638153334 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 8422892626592999198, guid: 214e08cd5e5d74c458e2a81b7ec2c84c, type: 3}
+  m_PrefabInstance: {fileID: 8322533339550416232}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &548229476647744920 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8422892626600249584, guid: 214e08cd5e5d74c458e2a81b7ec2c84c, type: 3}
