@@ -1306,6 +1306,67 @@ Mesh:
       - serializedVersion: 1
         m_IndexStart: 0
         m_IndexCount: 0
+--- !u!1001 &92020464
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 178.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 9.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 270
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2179274191142739020, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: stageUI
+      value: 
+      objectReference: {fileID: 318729480}
+    - target: {fileID: 5530599437967183055, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_Name
+      value: Inflatable_Ring_B_Donuts (10) Variant (18)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e0bfd96558597b2409da450574cdee48, type: 3}
 --- !u!43 &101676512
 Mesh:
   m_ObjectHideFlags: 0
@@ -3134,6 +3195,67 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!1001 &232140718
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 45.36
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 270
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2179274191142739020, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: stageUI
+      value: 
+      objectReference: {fileID: 318729480}
+    - target: {fileID: 5530599437967183055, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_Name
+      value: Inflatable_Ring_B_Donuts (10) Variant (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e0bfd96558597b2409da450574cdee48, type: 3}
 --- !u!1 &260736574
 GameObject:
   m_ObjectHideFlags: 0
@@ -4193,6 +4315,67 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 252393645112112097, guid: 4fc370c0612eb5945b807ae5875d1e04, type: 3}
   m_PrefabInstance: {fileID: 1912198122}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &310299796
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 110
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.62
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 270
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2179274191142739020, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: stageUI
+      value: 
+      objectReference: {fileID: 318729480}
+    - target: {fileID: 5530599437967183055, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_Name
+      value: Inflatable_Ring_B_Donuts (10) Variant (13)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e0bfd96558597b2409da450574cdee48, type: 3}
 --- !u!1 &318729479
 GameObject:
   m_ObjectHideFlags: 0
@@ -5320,6 +5503,128 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &344386092
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 169.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 9.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 270
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2179274191142739020, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: stageUI
+      value: 
+      objectReference: {fileID: 318729480}
+    - target: {fileID: 5530599437967183055, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_Name
+      value: Inflatable_Ring_B_Donuts (10) Variant (17)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+--- !u!1001 &367327717
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.68
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 9.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 270
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2179274191142739020, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: stageUI
+      value: 
+      objectReference: {fileID: 318729480}
+    - target: {fileID: 5530599437967183055, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_Name
+      value: Inflatable_Ring_B_Donuts (10) Variant (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e0bfd96558597b2409da450574cdee48, type: 3}
 --- !u!1001 &376659596
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5385,6 +5690,67 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 269543017b4b5fa4bb04c7d18b12fdd6, type: 3}
+--- !u!1001 &407502238
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -10.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.19
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 270
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2179274191142739020, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: stageUI
+      value: 
+      objectReference: {fileID: 318729480}
+    - target: {fileID: 5530599437967183055, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_Name
+      value: Inflatable_Ring_B_Donuts (10) Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e0bfd96558597b2409da450574cdee48, type: 3}
 --- !u!43 &429451128
 Mesh:
   m_ObjectHideFlags: 0
@@ -6075,7 +6441,6 @@ GameObject:
   - component: {fileID: 492331075}
   - component: {fileID: 492331074}
   - component: {fileID: 492331073}
-  - component: {fileID: 492331072}
   - component: {fileID: 492331078}
   m_Layer: 0
   m_Name: ToBonusArea
@@ -6084,19 +6449,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &492331072
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 492331071}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 93da59d10d28d094d96aff98d4060ff0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::StageSelect
-  Stage: Bonus Stage 2
 --- !u!54 &492331073
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -6226,10 +6578,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 492331071}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 210903ec42544ef4f818d049c16d92fa, type: 3}
+  m_Script: {fileID: 11500000, guid: efbf60be88148664f8ec594226bef312, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::SceneTransition
-  gameScene: Bonus Stage 2
+  m_EditorClassIdentifier: Assembly-CSharp::StageTransition
+  SceneTransition: {fileID: 260736575}
+  StageSelect: Bonus Stage 2
 --- !u!1 &509132837
 GameObject:
   m_ObjectHideFlags: 0
@@ -9879,6 +10232,128 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c9681dffcd4158746a5a88821c0bfc7a, type: 3}
+--- !u!1001 &695410600
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 9.54
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 8.26
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 270
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2179274191142739020, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: stageUI
+      value: 
+      objectReference: {fileID: 318729480}
+    - target: {fileID: 5530599437967183055, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_Name
+      value: Inflatable_Ring_B_Donuts (10) Variant (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+--- !u!1001 &707722285
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 70.29
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.62
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 270
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2179274191142739020, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: stageUI
+      value: 
+      objectReference: {fileID: 318729480}
+    - target: {fileID: 5530599437967183055, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_Name
+      value: Inflatable_Ring_B_Donuts (10) Variant (9)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e0bfd96558597b2409da450574cdee48, type: 3}
 --- !u!1 &710765769
 GameObject:
   m_ObjectHideFlags: 0
@@ -10235,6 +10710,67 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &721927011
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 96.28
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.62
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 270
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2179274191142739020, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: stageUI
+      value: 
+      objectReference: {fileID: 318729480}
+    - target: {fileID: 5530599437967183055, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_Name
+      value: Inflatable_Ring_B_Donuts (10) Variant (11)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e0bfd96558597b2409da450574cdee48, type: 3}
 --- !u!1001 &808570475
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10482,6 +11018,67 @@ Mesh:
       - serializedVersion: 1
         m_IndexStart: 0
         m_IndexCount: 0
+--- !u!1001 &822773523
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 115.36
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.62
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 270
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2179274191142739020, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: stageUI
+      value: 
+      objectReference: {fileID: 318729480}
+    - target: {fileID: 5530599437967183055, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_Name
+      value: Inflatable_Ring_B_Donuts (10) Variant (14)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e0bfd96558597b2409da450574cdee48, type: 3}
 --- !u!43 &825988487
 Mesh:
   m_ObjectHideFlags: 0
@@ -17674,6 +18271,67 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1205114032
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 51.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 270
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2179274191142739020, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: stageUI
+      value: 
+      objectReference: {fileID: 318729480}
+    - target: {fileID: 5530599437967183055, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_Name
+      value: Inflatable_Ring_B_Donuts (10) Variant (7)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e0bfd96558597b2409da450574cdee48, type: 3}
 --- !u!1 &1222628619
 GameObject:
   m_ObjectHideFlags: 0
@@ -20042,6 +20700,67 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1322291983
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 93
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.62
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 270
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2179274191142739020, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: stageUI
+      value: 
+      objectReference: {fileID: 318729480}
+    - target: {fileID: 5530599437967183055, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_Name
+      value: Inflatable_Ring_B_Donuts (10) Variant (10)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e0bfd96558597b2409da450574cdee48, type: 3}
 --- !u!1 &1323010750
 GameObject:
   m_ObjectHideFlags: 0
@@ -22125,6 +22844,128 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1346659757
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 39.26
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 270
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2179274191142739020, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: stageUI
+      value: 
+      objectReference: {fileID: 318729480}
+    - target: {fileID: 5530599437967183055, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_Name
+      value: Inflatable_Ring_B_Donuts (10) Variant (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+--- !u!1001 &1360982355
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 66.63
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 8.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 270
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2179274191142739020, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: stageUI
+      value: 
+      objectReference: {fileID: 318729480}
+    - target: {fileID: 5530599437967183055, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_Name
+      value: Inflatable_Ring_B_Donuts (10) Variant (8)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e0bfd96558597b2409da450574cdee48, type: 3}
 --- !u!43 &1405002920
 Mesh:
   m_ObjectHideFlags: 0
@@ -22303,11 +23144,133 @@ Mesh:
       - serializedVersion: 1
         m_IndexStart: 0
         m_IndexCount: 0
+--- !u!1001 &1406354957
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 163.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 9.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 270
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2179274191142739020, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: stageUI
+      value: 
+      objectReference: {fileID: 318729480}
+    - target: {fileID: 5530599437967183055, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_Name
+      value: Inflatable_Ring_B_Donuts (10) Variant (16)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e0bfd96558597b2409da450574cdee48, type: 3}
 --- !u!95 &1413457067 stripped
 Animator:
   m_CorrespondingSourceObject: {fileID: 228562084009460265, guid: c9681dffcd4158746a5a88821c0bfc7a, type: 3}
   m_PrefabInstance: {fileID: 808570475}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1415878897
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 157.54
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 9.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 270
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2179274191142739020, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: stageUI
+      value: 
+      objectReference: {fileID: 318729480}
+    - target: {fileID: 5530599437967183055, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_Name
+      value: Inflatable_Ring_B_Donuts (10) Variant (15)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e0bfd96558597b2409da450574cdee48, type: 3}
 --- !u!1 &1447576128
 GameObject:
   m_ObjectHideFlags: 0
@@ -23051,11 +24014,133 @@ Mesh:
       - serializedVersion: 1
         m_IndexStart: 0
         m_IndexCount: 0
+--- !u!1001 &1525247526
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.76
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.19
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 270
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2179274191142739020, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: stageUI
+      value: 
+      objectReference: {fileID: 318729480}
+    - target: {fileID: 5530599437967183055, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_Name
+      value: Inflatable_Ring_B_Donuts (10) Variant (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e0bfd96558597b2409da450574cdee48, type: 3}
 --- !u!95 &1526005460 stripped
 Animator:
   m_CorrespondingSourceObject: {fileID: 228562084009460265, guid: c9681dffcd4158746a5a88821c0bfc7a, type: 3}
   m_PrefabInstance: {fileID: 3281401733935563181}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1540621304
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 99.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.62
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 270
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2179274191142739020, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: stageUI
+      value: 
+      objectReference: {fileID: 318729480}
+    - target: {fileID: 5530599437967183055, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_Name
+      value: Inflatable_Ring_B_Donuts (10) Variant (12)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e0bfd96558597b2409da450574cdee48, type: 3}
 --- !u!1 &1547534043
 GameObject:
   m_ObjectHideFlags: 0
@@ -26263,6 +27348,7 @@ GameObject:
   - component: {fileID: 1870277893}
   - component: {fileID: 1870277892}
   - component: {fileID: 1870277891}
+  - component: {fileID: 1870277897}
   m_Layer: 0
   m_Name: Stage End
   m_TagString: Untagged
@@ -26277,7 +27363,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1870277890}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 93da59d10d28d094d96aff98d4060ff0, type: 3}
   m_Name: 
@@ -26403,6 +27489,20 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1870277897
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1870277890}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efbf60be88148664f8ec594226bef312, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::StageTransition
+  SceneTransition: {fileID: 260736575}
+  StageSelect: Win
 --- !u!1 &1874106944
 GameObject:
   m_ObjectHideFlags: 0
@@ -30932,6 +32032,67 @@ Animator:
   m_CorrespondingSourceObject: {fileID: 228562084009460265, guid: c9681dffcd4158746a5a88821c0bfc7a, type: 3}
   m_PrefabInstance: {fileID: 463448128}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1995866783
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 16.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 8.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 270
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 444278782551765364, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2179274191142739020, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: stageUI
+      value: 
+      objectReference: {fileID: 318729480}
+    - target: {fileID: 5530599437967183055, guid: e0bfd96558597b2409da450574cdee48, type: 3}
+      propertyPath: m_Name
+      value: Inflatable_Ring_B_Donuts (10) Variant (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e0bfd96558597b2409da450574cdee48, type: 3}
 --- !u!43 &2030423767
 Mesh:
   m_ObjectHideFlags: 0
@@ -31935,3 +33096,22 @@ SceneRoots:
   - {fileID: 2103075609}
   - {fileID: 1782568069}
   - {fileID: 1870277896}
+  - {fileID: 407502238}
+  - {fileID: 1525247526}
+  - {fileID: 695410600}
+  - {fileID: 367327717}
+  - {fileID: 1995866783}
+  - {fileID: 1346659757}
+  - {fileID: 232140718}
+  - {fileID: 1205114032}
+  - {fileID: 1360982355}
+  - {fileID: 707722285}
+  - {fileID: 1322291983}
+  - {fileID: 721927011}
+  - {fileID: 1540621304}
+  - {fileID: 310299796}
+  - {fileID: 822773523}
+  - {fileID: 1415878897}
+  - {fileID: 1406354957}
+  - {fileID: 344386092}
+  - {fileID: 92020464}

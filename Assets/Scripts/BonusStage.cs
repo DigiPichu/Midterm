@@ -21,7 +21,7 @@ public class BonusStage : MonoBehaviour
         {
             SceneTransition.PauseAction();
             SceneTransition.Wait();
-            SceneManager.LoadScene("Stage Select");
+            SceneManager.LoadScene("Demo Stage 2");
             SceneTransition.ResumeAction();
         }
     }

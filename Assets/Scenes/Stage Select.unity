@@ -234,7 +234,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93da59d10d28d094d96aff98d4060ff0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::StageSelect
-  Stage: SampleScene
+  Stage: Demo Stage
 --- !u!1 &289606633
 GameObject:
   m_ObjectHideFlags: 0
