@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 
 public class SceneTransition : MonoBehaviour
 {
-    private bool isPaused = false;
+    //private bool isPaused = false;
     private float WaitTime = 3.0f;
 
     [SerializeField] string gameScene;
@@ -18,13 +18,13 @@ public class SceneTransition : MonoBehaviour
     public void PauseAction()
     {
         Time.timeScale = 0f;
-        isPaused = true;
+        //isPaused = true;
     }
 
     public void ResumeAction()
     {
         Time.timeScale = 1f;
-        isPaused = false;
+        //isPaused = false;
     }
 
     public IEnumerator Wait()

@@ -16,9 +16,9 @@ public class DestroyBonus : MonoBehaviour
         destroyText.text = $"Destroy Them All: {BonusStageItems.bonusStageItems}";
     }
 
-    public void changeDestroy(int amount)
+    /*public void changeDestroy(int amount)
     {
         ScoreManager.PonDeRing += amount;
         destroyText.text = "Destroy Them All: " + BonusStageItems.bonusStageItems;
-    }
+    }*/
 }

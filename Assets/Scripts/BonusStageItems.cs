@@ -1,9 +1,13 @@
+using UnityEditor.SceneManagement;
 using UnityEngine;
+using static UnityEngine.Rendering.DebugUI;
 
 public class BonusStageItems : MonoBehaviour
 {
-    public static float bonusStageItems;
+    public int value;
 
+    public static float bonusStageItems;
+    public DestroyBonus DestroyBonus;
 
 
 
@@ -23,6 +27,7 @@ public class BonusStageItems : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Player") || other.gameObject.CompareTag("PlayerAttack") || other.gameObject.CompareTag("PlayerAttackJump"))
         {
+            //DestroyBonus.changeDestroy(value);
             BonusStageItems.bonusStageItems--;
             Debug.Log(bonusStageItems);
         }
