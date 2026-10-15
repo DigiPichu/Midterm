@@ -31,7 +31,7 @@ public class Enemy : MonoBehaviour
 
         }
 
-        if (collision.gameObject.CompareTag("PlayerAttackJump") && ScoreManager.Life > 0)
+        /*if (collision.gameObject.CompareTag("PlayerAttackJump") && ScoreManager.Life > 0)
         {
             Debug.Log("Touched a Player");
             Debug.Log(ScoreManager.Life);
@@ -41,7 +41,7 @@ public class Enemy : MonoBehaviour
             stageUI.changeLife(lifeValue);
             SceneTransition.ResumeAction();
 
-        }
+        }*/
 
         if (collision.gameObject.CompareTag("Player") && ScoreManager.Life <= 0)
         {
@@ -50,12 +50,12 @@ public class Enemy : MonoBehaviour
             SceneManager.LoadScene("Game Over");
         }
 
-        if (collision.gameObject.CompareTag("PlayerAttackJump") && ScoreManager.Life > 0)
+        /*if (collision.gameObject.CompareTag("PlayerAttackJump") && ScoreManager.Life <= 0)
         {
             Debug.Log("Touched a Player");
             Debug.Log(ScoreManager.Life);
             SceneManager.LoadScene("Game Over");
-        }
+        }*/
 
 
 
